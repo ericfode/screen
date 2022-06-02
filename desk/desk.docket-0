@@ -1,0 +1,9 @@
+:~
+  title+'An app that just shows a screen'
+  info+'its really a simple idea just show a global screen'
+  color+0x99.d3bd
+  version+[0 0 0]
+  website+'~siddev'
+  license+'MIT'
+  site+/screen
+==
